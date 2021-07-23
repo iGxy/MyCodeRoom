@@ -1,0 +1,66 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.pdb
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\ApplicationInsights.config
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\csc.exe
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\vbc.exe
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\VBCSCompiler.exe
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.dll.config
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\UniEmr_CSpic.pdb
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.DependencyCollector.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Web.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.WindowsServer.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.ApplicationInsights.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.DependencyCollector.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.Web.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.AI.WindowsServer.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.ApplicationInsights.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.csprojResolveAssemblyReference.cache
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.dll
+E:\VS2015-project\UniEmr_CSpic\UniEmr_CSpic\obj\Release\UniEmr_CSpic.pdb
